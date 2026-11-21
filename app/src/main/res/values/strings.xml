@@ -1,0 +1,86 @@
+<resources>
+    <string name="app_name">Taylor Launcher</string>
+    <string name="settings">Настройки</string>
+    <string name="greeting_morning">Доброе утро!</string>
+    <string name="greeting_day">Добрый день!</string>
+    <string name="greeting_evening">Добрый вечер!</string>
+    <string name="greeting_night">Доброй ночи!</string>
+    <string name="weather_now">%1$s. Сейчас %2$s</string>
+    <string name="weather_clear">Ясно</string>
+    <string name="weather_partly">Частично облачно</string>
+    <string name="weather_cloudy">Облачно</string>
+    <string name="weather_fog">Туман</string>
+    <string name="weather_drizzle">Небольшой дождь</string>
+    <string name="weather_rain">Дождь</string>
+    <string name="weather_snow">Снег</string>
+    <string name="weather_thunderstorm">Гроза</string>
+    <string name="weather_unknown">Неизвестно</string>
+    <string name="toast_launch_failed">Не удалось запустить %1$s</string>
+    <string name="toast_not_installed">%1$s не установлено</string>
+    <string name="settings_apps_button_count">Приложения: %1$d…</string>
+    <string name="empty_apps">Нет приложений. Выберите их в настройках.</string>
+    <string name="tv_input_tuner">ТВ</string>
+    <string name="tv_input_av">AV</string>
+    <string name="tv_input_other">Вход</string>
+    <string name="weather_current">Пасмурно. Сейчас 3°</string>
+    <string name="tv_inputs">Входы ТВ</string>
+    <string name="tv_inputs_empty">Входы не найдены</string>
+    <string name="tv_input_connected">подключено</string>
+    <string name="tv_input_disconnected">нет сигнала</string>
+    <string name="tv_input_failed">Прошивка ТВ не принимает переключение входов. Используйте кнопку INPUT на пульте.</string>
+    <string name="tv_input_back_hint">BACK — вернуться в лаунчер</string>
+    <string name="tv_input_no_signal">Нет сигнала на этом входе</string>
+
+    <string name="settings_section_general">Общие</string>
+    <string name="settings_show_tv_inputs">Отображать входы ТВ на главном экране</string>
+    <string name="settings_use_24h">24-часовой формат</string>
+    <string name="settings_section_background">Обои</string>
+    <string name="settings_section_apps">Приложения на главном</string>
+    <string name="settings_section_system">Система</string>
+    <string name="settings_tv_settings">Настройки телевизора</string>
+    <string name="settings_display_settings">Настройки экрана ТВ</string>
+    <string name="settings_about">О лаунчере</string>
+    <string name="settings_unavailable">Настройки недоступны на этом устройстве</string>
+    <string name="about_version">Версия %1$s</string>
+    <string name="about_message">Taylor Launcher\nВерсия %1$s</string>
+
+    <string name="settings_section_text">Текст</string>
+
+    <string name="settings_section_sleep">Спящий режим</string>
+
+    <string name="settings_section_tiles">Ячейки</string>
+    <string name="settings_font_dialog_title">Шрифт</string>
+    <string name="settings_apps_button">Отображаемые приложения</string>
+
+    <string name="settings_background_blur_short">Размытие</string>
+    <string name="settings_background_brightness_short">Яркость</string>
+    <string name="settings_font_label">Шрифт</string>
+    <string name="settings_size_label">Размер</string>
+    <string name="settings_tile_radius_label">Скругление</string>
+    <string name="settings_tile_scale_label">Размер ячеек</string>
+    <string name="settings_tile_gap_label">Расстояние</string>
+    <string name="settings_sleep_timeout_label">Бездействие</string>
+    <string name="settings_sleep_blur_label">Размытие</string>
+    <string name="settings_sleep_bright_label">Яркость</string>
+    <string name="settings_sleep_wallpaper_label">Текущий фон</string>
+    <string name="settings_sleep_mode_android">Использовать стоковый режим сна</string>
+    <string name="home_prompt_title">Сделать Taylor Launcher основным экраном?</string>
+    <string name="home_prompt_text">Лаунчер будет открываться вместо стандартного экрана ТВ при включении и по кнопке HOME.</string>
+    <string name="home_prompt_open">Открыть настройки</string>
+    <string name="home_prompt_later">Позже</string>
+    <string name="home_prompt_manual">Выберите «Taylor Launcher» в разделе «Главный экран» настроек ТВ</string>
+    <string name="settings_left_hint">Для выхода нажмите «влево» ещё раз</string>
+    <string name="tv_inputs_right_hint">Для выхода нажмите «вправо» ещё раз</string>
+    <string name="settings_on">Вкл</string>
+    <string name="settings_off">Выкл</string>
+    <string name="settings_dot_connected">•</string>
+    <string name="settings_visible_tiles">Плиток на экране</string>
+    <string name="settings_sleep_off_option">Выключен</string>
+    <string name="settings_order_button">Порядок приложений</string>
+    <string name="settings_order_dialog">Порядок приложений</string>
+    <string name="settings_all_apps_title">Все приложения</string>
+    <string name="settings_sleep_fade">Переход сна</string>
+    <string name="settings_apps_dialog_title">Приложения на главном</string>
+    <string name="settings_section_animations">Анимации</string>
+
+</resources>

@@ -1,0 +1,60 @@
+# Gradle
+.gradle/
+build/
+*/build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android
+local.properties
+*.apk
+*.ap_
+*.aab
+*.so
+*.o
+*.dex
+*.class
+*.jar
+*.aar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Kotlin
+*.kt.metadata
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Keystores
+*.jks
+*.keystore
+keystore.properties
+
+# Build outputs
+app/.cxx/
+target/
+
+# Local scratch / artifacts
+_bak/
+_s[0-9]*.png
+home_*
+tv_01.png
+ui.pdf
+ui[0-9].xml
+pix.ps1
+*.har

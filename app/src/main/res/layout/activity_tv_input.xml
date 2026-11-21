@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:keepScreenOn="true">
+
+    <android.media.tv.TvView
+        android:id="@+id/tv_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <TextView
+        android:id="@+id/tv_input_hint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|start"
+        android:layout_margin="16dp"
+        android:background="#66000000"
+        android:fontFamily="sans-serif-light"
+        android:padding="6dp"
+        android:text="@string/tv_input_back_hint"
+        android:textColor="#FFFFFF"
+        android:textSize="@dimen/tv_input_hint_text_size" />
+</FrameLayout>
